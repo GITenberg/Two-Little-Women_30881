@@ -1,0 +1,40 @@
+_repo: Two-Little-Women_30881
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Caswell, Edward C.
+    alias: Caswell, E. C. (Edward C.)
+    birthdate: 1879
+    deathdate: 1963
+    gutenberg_agent_id: '31826'
+    url: http://www.gutenberg.org/2009/agents/31826
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wells, Carolyn
+    alias: Houghton, Carolyn Wells
+    birthdate: 1862
+    deathdate: 1942
+    gutenberg_agent_id: '1060'
+    url: http://www.gutenberg.org/2009/agents/1060
+    wikipedia: https://en.wikipedia.org/wiki/Carolyn_Wells
+description: ''
+gutenberg_issued: '2010-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30881'
+  lccn: '15019625'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Best friends -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Neighborliness -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Vacations -- Juvenile fiction'
+title: Two Little Women
+url: http://www.gutenberg.org/ebooks/30881
