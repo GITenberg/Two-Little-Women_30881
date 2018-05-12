@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1060
     wikipedia: https://en.wikipedia.org/wiki/Carolyn_Wells
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30881#Two-Little-Women
 gutenberg_issued: '2010-01-07'
 gutenberg_type: Text
 identifiers:
